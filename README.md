@@ -26,10 +26,10 @@ client sends a json file to server and waits for response
 
 ## SAMPLES
 
-there is a samples directory that contains several json file for test
-    os_command.json ----> contains just one command
-    commands.json ----> contains several commands
-    empty_command.json ----> empty file
+there is a samples directory that contains several json file for test <br />
+    os_command.json ----> contains just one command <br />
+    commands.json ----> contains several commands <br />
+    empty_command.json ----> empty file <br />
     invalid_commands.json ----> contains invalid command
     
     
