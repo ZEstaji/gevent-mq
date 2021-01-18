@@ -1,0 +1,10 @@
+[{
+"command_type": "os",
+"command_name": "mkdir Test",
+"parameters":[]
+},
+
+{
+"command_type": "compute",
+"expression": "(s(30+10)*5+1+1)"
+}]
