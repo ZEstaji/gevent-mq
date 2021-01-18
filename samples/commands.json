@@ -1,0 +1,36 @@
+[{
+"command_type": "os",
+"command_name": "sleep 4 ; ls -ll",
+"parameters":[""]
+},
+{
+"command_type": "os",
+"command_name": "mkdir Test",
+"parameters":[]
+},
+
+{
+"command_type": "compute",
+"expression": "((30+10)*5+1+1)"
+},
+{
+"command_type": "os",
+"command_name": "touch x",
+"parameters":[]
+},
+{
+"command_type": "os",
+"command_name": "sleep 3",
+"parameters":[""]
+},
+  {
+"command_type": "compute",
+"expression": "(1000*5+1+1-3/4)"
+},
+
+{
+"command_type": "os",
+"command_name": "ls",
+"parameters":["/home/me","-h","-l"]
+}
+]
