@@ -1,26 +1,5 @@
 ## PROJECT STRUCTURE
 
-the application structure is as follow
-.
-├── client.py
-├── core
-│   ├── errors.py
-│   ├── factory_command.py
-│   └── process.py
-├── README
-├── requirments.txt
-├── samples
-│   ├── command.json
-│   ├── commands.json
-│   ├── empty_command.json
-│   ├── invalid_commands.json
-│   └── os_command.json
-├── server.py
-└── test
-    ├── __init__.py
-    ├── test_factory_command.py
-    └── test_process.py
-
 3 directories, 15 files
 
 
